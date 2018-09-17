@@ -1,2 +1,3 @@
-# HPI_Capstone
-The repository for the HPI Capstone project
+# capstone1-TheProject
+
+Some very basic structure to get started with the game.
